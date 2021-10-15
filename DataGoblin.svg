@@ -68,7 +68,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-page="true" /><style
      type="text/css"
-     id="style2">#text1658{fill:black;}
+     id="style2">#text1658{fill:black;font-family:"Jetbrains Mono",monospace;}
 .grid-path{stroke:black;}
 @media (prefers-color-scheme: dark) {
 #text1658{fill:white;}
