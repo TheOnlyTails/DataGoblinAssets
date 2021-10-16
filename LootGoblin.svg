@@ -70,8 +70,10 @@
         inkscape:zoom="0.43770439"/>
     <style
         id="style2"
-        type="text/css">#text1658 {
+        type="text/css">
+    #text1658 {
         fill: black;
+        font-family: "Jetbrains Mono", monospace;
     }
 
     .grid-path {
