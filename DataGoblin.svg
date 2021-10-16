@@ -8,8 +8,8 @@
    y="0px"
    viewBox="0 0 3899.8924 500.57846"
    xml:space="preserve"
-   sodipodi:docname="data-generators-logo.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="DataGoblin.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    width="3899.8923"
    height="500.57846"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -49,9 +49,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="0.43770439"
-     inkscape:cx="1540.9944"
-     inkscape:cy="286.72319"
+     inkscape:zoom="0.2188522"
+     inkscape:cx="2049.3283"
+     inkscape:cy="-98.239819"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -68,7 +68,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-page="true" /><style
      type="text/css"
-     id="style2">#text1658{fill:black;font-family:"Jetbrains Mono",monospace;}
+     id="style2">#text1658{fill:black;font-family:&quot;Jetbrains Mono&quot;,monospace;}
 .grid-path{stroke:black;}
 @media (prefers-color-scheme: dark) {
 #text1658{fill:white;}
@@ -93,7 +93,7 @@
          style="stop-color:#7F52FF"
          id="stop8" /></linearGradient></g><text
      xml:space="preserve"
-     style="font-size:550px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:none;fill-opacity:1;"
+     style="font-size:550px;line-height:1.25;font-family:'JetBrains Mono',monospace;-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:none;fill-opacity:1;"
      x="649.40009"
      y="457"
      id="text1658"><tspan

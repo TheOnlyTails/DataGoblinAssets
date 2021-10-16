@@ -9,7 +9,7 @@
    width="4229.8916"
    x="0px"
    y="0px"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="ModelGoblin.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -53,7 +53,7 @@
    showgrid="false"
    viewbox-height="527.9"
    inkscape:current-layer="Layer_1"
-   inkscape:cx="3392.7007"
+   inkscape:cx="3392.7006"
    inkscape:cy="29.70041"
    inkscape:pagecheckerboard="1"
    inkscape:pageopacity="0"
@@ -107,7 +107,7 @@
        id="stop8"
        offset="1" /></linearGradient></g>
     <text
-   style="font-size:550px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:none;fill-opacity:1"
+   style="font-size:550px;line-height:1.25;font-family:'JetBrains Mono',monospace;-inkscape-font-specification:'JetBrains Mono, Normal';font-variant-ligatures:none;fill-opacity:1"
    id="text1658"
    x="649.40009"
    y="457"
