@@ -1,6 +1,9 @@
-# ![DataGoblinAssets](/DataGoblin.svg)
+# ![DataGoblin](DataGoblin/DataGoblin.svg#gh-light-mode-only)
 
-This repo hold assets for the DataGoblin libraries, such as:
+# ![DataGoblin](DataGoblin/DataGoblin_dark.svg#gh-dark-mode-only)
+
+This repo holds the branding assets for the DataGoblin libraries:
+
 - LootGoblin
 - ModelGoblin
 - RecipeGoblin
